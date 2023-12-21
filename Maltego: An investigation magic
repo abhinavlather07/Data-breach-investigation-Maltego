@@ -1,7 +1,7 @@
 The whole data breach investigation was carried on by me on kali linux(Love of hackers).
 The main tool which was used is Maltego community edition(includes domain through internet).
 I was able to find emails or phone numbers related to any legal domain.
-after finding the emails a transform called "have i been pwned" is used.
+After finding the emails a transform called "have i been pwned" is used.
 This transform helps us to find any kind of breached emails.
 In addition to this it gives information of the company involved in the breach and the names of the individuals related to the emails.
 Also i was able to find any kind of malware related to any domain through transform called "Polyswarm".
